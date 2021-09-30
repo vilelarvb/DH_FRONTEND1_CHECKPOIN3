@@ -1828,12 +1828,12 @@ progress {
 }
 
 .alert-primary {
-  color: #997800;
+  color: #990000;
   background-color: #fff4cc;
   border-color: #ffefb3;
 }
 .alert-primary .alert-link {
-  color: #7a6000;
+  color: #7a0000;
 }
 
 .alert-secondary {
